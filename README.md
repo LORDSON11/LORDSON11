@@ -8,8 +8,14 @@
 
 <h3 align="center">☁️ Cloud & DevOps Enthusiast | 🛠️ AWS & Automation Specialist | 🚀 Lifelong Learner</h3>
 
+<!-- 🌩️ Cloud & DevOps Main Banner GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/cloud.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="85%" alt="Cloud and DevOps Banner"/>
+</p>
+
+<!-- 👁️ Profile Visitors -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LORDSON11&label=Profile+Views&color=0ea5e9&style=flat-square" alt="Profile views" />
 </p>
 
 ---
@@ -30,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" title="AWS"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" title="Ansible"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" title="Terraform"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" title="Jenkins"/>
@@ -40,6 +46,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+</p>
+
+<!-- 🔁 DevOps Tools & Flow GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80%" alt="DevOps Flow GIF"/>
 </p>
 
 ---
@@ -61,25 +72,25 @@
 
 ## 🧠 Patents
 
-- 🔬 **Health Flush – Smart Urinalysis Toilet** (2023)  
-- 💧 **Scitus Redemptio – AI Smart Irrigation System** (2022)
+- 🔬 **Health Flush – Smart Urinalysis Toilet** *(2023)*  
+- 💧 **Scitus Redemptio – AI Smart Irrigation System** *(2022)*
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 BRICS 2023 – Excellent Prize in IoT Innovation  
-- 🛠️ India Skills 2024 – State Level Selection (Mobile Robotics)  
-- 📢 AWS Cloud Trainer – 50+ school students mentored  
-- 🎤 Event Coordinator – *Ersmernoz-23 & 24*
+- 🥇 **BRICS 2023** – Excellent Prize in IoT Innovation  
+- 🛠️ **India Skills 2024** – State Level Selection (Mobile Robotics)  
+- 👨‍🏫 **AWS Cloud Trainer** – Mentored 50+ school students  
+- 🎤 **Event Coordinator** – *Ersmernoz-23* & *Ersmernoz-24*
 
 ---
 
 ## 📜 Certifications & Badges
 
-- 🛰️ Cisco Networking Academy – Networking (2024)  
-- ☁️ AWS – Intro to Cloud 101, Getting Started with Storage  
-- 🐙 GitHub Foundations – GitHub (2025)
+- 🛰️ **Networking** – Cisco Networking Academy *(2024)*  
+- ☁️ **AWS** – Intro to Cloud 101, Getting Started with Storage  
+- 🐙 **GitHub Foundations** – GitHub *(2025)*
 
 ---
 
@@ -128,8 +139,9 @@
 
 ---
 
+<!-- 🏁 Outro GIF (GIF #1 moved here) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="80%" />
 </p>
 
 <p align="center">
